@@ -11,9 +11,6 @@
         "no-missing-space-atx": {
             "enabled": true
         },
-        "blanks-around-headings": {
-            "enabled": true
-        },
         "heading-start-left": {
             "enabled": true
         },
